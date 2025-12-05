@@ -1,4 +1,4 @@
-# Sobre mim:
+# Prazer. Me chamo Juan Porto.
 
 Olá! Meu nome é Juan, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 Sou apaixonado por tecnologia e especializado em Desenvolvimento Back-end, com foco em Java e Spring Boot.
